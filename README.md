@@ -28,13 +28,17 @@
 ### CURSOS
 
 ![SESI SENAI](https://ava.sesisenai.org.br/pluginfile.php/1/core_admin/logocompact/1000x1000/1643927858/logo-ava.png)
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="100" height="26">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: #FFFFFF;transition: background-color 300ms;" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="100" height="26">
 
+
+##
 
 
 ![Veroni Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=VeroniJrStudant&show_icons=true&theme=radical)
 
+
 ##
+
 
 ### <u><b>Tecnologias</b></u>
 
