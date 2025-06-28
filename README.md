@@ -1,6 +1,6 @@
 <h1 align="center"> Veroni Júnior </h1>
 
-### Olá! Eu sou o Veroni Júnior - Estudante em Desenvolvedor Fullstack em formação. 🖖
+### Olá! Eu sou o Veroni Júnior - Desenvolvedor Fullstack. 🖖
 <hr>
 
 ### Perfis para contato
